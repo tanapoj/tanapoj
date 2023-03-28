@@ -25,8 +25,12 @@ Hi there 👋
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="40" height="40" />
 </p>
  
+linkedin: https://www.linkedin.com/in/tanapoj-chaivanichanan
+ 
+<!--
 ## Experience
 
-| Role | Company | Description  
-| --- | --- | --- |
-| Senior Software Engineer | | |
+| Period | Role | Company | Description  
+| --- |  --- | --- | --- |
+| 2021 | Senior Software Engineer | | |
+-->
