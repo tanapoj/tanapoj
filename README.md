@@ -27,10 +27,8 @@ Hi there 👋
  
 linkedin: https://www.linkedin.com/in/tanapoj-chaivanichanan
  
-<!--
 ## Experience
 
 | Period | Role | Company | Description  
 | --- |  --- | --- | --- |
 | 2021 | Senior Software Engineer | | |
--->
