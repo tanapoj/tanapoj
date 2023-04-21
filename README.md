@@ -32,3 +32,4 @@ linkedin: https://www.linkedin.com/in/tanapoj-chaivanichanan
 | Period | Role | Company | Description  
 | --- |  --- | --- | --- |
 | 2021 | Senior Software Engineer | | |
+| 2020 | Senior Software Engineer | | |
