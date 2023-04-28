@@ -35,3 +35,4 @@ linkedin: https://www.linkedin.com/in/tanapoj-chaivanichanan
 | 2020 | Senior Software Engineer | | |
 | 2018 | Senior Software Engineer | | |
 | 2012 | Web Programmer | | |
+| 2010 | OOP Class T.A. | | |
