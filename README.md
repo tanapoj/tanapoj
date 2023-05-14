@@ -8,7 +8,6 @@ Hi there 👋
 - 💬 Ask me about ...
 
 
-
 ## Languages
 <p>    
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" />
