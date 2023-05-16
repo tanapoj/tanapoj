@@ -30,7 +30,7 @@ linkedin: https://www.linkedin.com/in/tanapoj-chaivanichanan
 
 | Period | Role | Company | Description  
 | --- |  --- | --- | --- |
-| 2022 | Instructor | | |
+| 2022 | Instructor / Faculty of Engineering, Bangkok University | | |
 | 2021 | Senior Software Engineer / Team Lead | | |
 | 2018 | Senior Software Engineer | | |
 | 2014 | Senior Web Programmer | | |
