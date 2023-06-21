@@ -5,7 +5,7 @@ Hi there 👋
 - 🔭 Senior Software Engineer (Team Lead)
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on Developer Manager position
-- 💬 ........
+- 💬 .........
 
 
 ## Languages
