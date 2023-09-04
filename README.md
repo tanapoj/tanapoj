@@ -1,4 +1,4 @@
-![image](https://github.com/tanapoj/tanapoj/assets/44696574/9ec2c764-ea53-4006-acd5-e4e36ad39717)Hello there 👋
+Hello, 世界 👋
 
 # Tanapoj (Ta) Chaivanichanan
 
