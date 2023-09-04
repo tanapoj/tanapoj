@@ -16,11 +16,13 @@ Hello, 世界 👋
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Light.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Haskell-Light.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="40" height="40" />
  
 </p>
