@@ -35,7 +35,8 @@ website: https://www.TAmemo.com (since 2015)
 | --- |  --- | --- |
 | 2010 - Present | Academic Computer-Science Topic Tutorial/Training | _Freelance_ |
 | 2018 - 2023 | Senior Software Engineer / Team Lead | Centrillion Technology |
-| 2022 - 2023 | Instructor (อาจารย์พิเศษ) | Faculty of Engineering, Bangkok University |
+| 2022 - 2023 | OOP Class Instructor (อาจารย์พิเศษ) | Faculty of Engineering, Bangkok University |
+| 2019 | Data Structure and Algorithm Class Instructor (ผู้บรรยายพิเศษ) | EGAT (การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย) | 
 | 2015 - 2018 | Senior Developer / Team Lead | Dek-D Interactive | 
 | 2012 - 2015 | Web Programmer | Dek-D Interactive |
 | 2011 | Database Administrator (Trainee Position) | dtac (Total Access Communication) |
