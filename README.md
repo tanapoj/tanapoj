@@ -36,6 +36,6 @@ website: https://www.TAmemo.com (since 2015)
 | 2022 - 2023 | Instructor (อาจารย์พิเศษ) | Faculty of Engineering, Bangkok University |
 | 2015 - 2018 | Senior Developer / Team Lead | Dek-D Interactive | 
 | 2012 - 2015 | Web Programmer | Dek-D Interactive |
-| 2011 | Database Administrator (Trainee Position) | Dek-D Interactive |
+| 2011 | Database Administrator (Trainee Position) | dtac (Total Access Communication) |
 | 2010 | OOP Class T.A. | Faculty of ICT, Mahidol University |
 
