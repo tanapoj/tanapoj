@@ -1,4 +1,4 @@
-Hello there 👋
+![image](https://github.com/tanapoj/tanapoj/assets/44696574/9ec2c764-ea53-4006-acd5-e4e36ad39717)Hello there 👋
 
 # Tanapoj (Ta) Chaivanichanan
 
@@ -21,6 +21,8 @@ Hello there 👋
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="40" height="40" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="40" height="40" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="40" height="40" />
+ 
 </p>
  
 linkedin: https://www.linkedin.com/in/tanapoj-chaivanichanan
