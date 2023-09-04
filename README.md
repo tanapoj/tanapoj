@@ -1,11 +1,10 @@
-Hi there 👋
+Hello there 👋
 
-# Tanapoj Chaivanichanan (Ta)
+# Tanapoj (Ta) Chaivanichanan
 
 - 🔭 Senior Software Engineer (Team Lead)
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on Developer Manager position
-- 💬 ....
+- 🌱 Full-stack Developer with more than 10+ years experience. like to learn new technology, programming languages, computer-sci topics and some mathematics.
+- 💬 love Teaching, creating tutorial stuff and blogs, and doing some Graph Design and Drawing
 
 
 ## Languages
@@ -25,15 +24,18 @@ Hi there 👋
 </p>
  
 linkedin: https://www.linkedin.com/in/tanapoj-chaivanichanan
+
+website: https://www.TAmemo.com (since 2015)
  
 ## Experience
 
-| Period | Role | Company | Description  
-| --- |  --- | --- | --- |
-| 2023 | Instructor / Faculty of Engineering, Bangkok University | | |
-| 2021 | Senior Software Engineer / Team Lead | | |
-| 2018 | Senior Software Engineer | | |
-| 2014 | Senior Web Programmer | | |
-| 2012 | Web Programmer | | |
-| 2010 | OOP Class T.A. | | |
+| Period | Role | Company  
+| --- |  --- | --- |
+| 2010 - Present | Academic Computer-Science Topic Tutorial/Training | _Freelance_ |
+| 2018 - 2023 | Senior Software Engineer / Team Lead | Centrillion Technology |
+| 2022 - 2023 | Instructor (อาจารย์พิเศษ) | Faculty of Engineering, Bangkok University |
+| 2015 - 2018 | Senior Developer / Team Lead | Dek-D Interactive | 
+| 2012 - 2015 | Web Programmer | Dek-D Interactive |
+| 2011 | Database Administrator (Trainee Position) | Dek-D Interactive |
+| 2010 | OOP Class T.A. | Faculty of ICT, Mahidol University |
 
