@@ -5,7 +5,7 @@ Hello, 世界 👋
 - 🔭 Senior Software Engineer (Team Lead)
 - 🌱 Full-stack Developer with more than 10+ years experience. like to learn new technology, programming languages, computer-sci topics and some mathematics.
 - 💬 love Teaching, creating tutorial stuff and blogs, and doing some Graph Design and Drawing
-- .
+- ..
 
 
 ## Languages
